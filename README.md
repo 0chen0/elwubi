@@ -3,8 +3,12 @@
 
 [![version release][2]][1]
 
-[1]: https://github.com/elvynlee/elwubi/blob/master/release/elwubi_1.0.rar
-[2]: https://img.shields.io/badge/version-v1.0-orange.svg
+[1]: https://github.com/elvynlee/elwubi/blob/master/release/elwubi_1.30.zip
+[2]: https://img.shields.io/badge/version-v1.30-orange.svg
+
+update2:
+
+作了些排序，调整了界面，暂时这么用先。
 
 update:
 
